@@ -1,0 +1,21 @@
+---
+title: "ms3"
+author: "Shreyvardhan Sharma"
+date: "29/02/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+library(readr)
+library(janitor)
+```
+
+ABOUT MY PROJECT
+
+I have updated my project to be a coronavirus tracker. In my project, I am using data sets from WHO and CDC to create visualisations and analyse the spread of coronavirus in the world.
+The first dataset fromWHo gives a daily track of coronavirus cases.
+The seocnd dataset from CDC gives a sprea do fthe coronavirus cases in the US.
+
+Through this, I will be able to compare the daily sprad of coronavirus globally and contrast it with the spread in America.
