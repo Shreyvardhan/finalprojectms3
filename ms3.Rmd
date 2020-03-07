@@ -19,3 +19,9 @@ The first dataset fromWHo gives a daily track of coronavirus cases.
 The seocnd dataset from CDC gives a sprea do fthe coronavirus cases in the US.
 
 Through this, I will be able to compare the daily sprad of coronavirus globally and contrast it with the spread in America.
+
+UPDATE FOR MILESTONE 4:
+
+Although I had already done a fair amount of data cleaning for the last milestone, I have updated the data I am using to add day-level data, that is, data from each day since the outbreak started. This is for the purpose of being able to "map" the outbreak from Day 0 to present day. 
+
+I also intend to find more datasets of daily data for the SARS and MERS outbreaks and use them to contrast the day-by-day spread of these diseases compared with coronavirus. Data has been pulled from the WHO, the CDC, and the European version of the CDC.
